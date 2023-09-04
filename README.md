@@ -1,3 +1,3 @@
 # QR code component
 
-makin ga  qr-component
+making a qr-component
